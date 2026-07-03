@@ -30,7 +30,7 @@ A simple interactive whiteboard built using **HTML, CSS, and JavaScript (Canvas 
 ## 🛠️ Built With
 
 - 🟧 HTML
--  
+
 - 🎨 CSS
 
 - 🟨 JavaScript
