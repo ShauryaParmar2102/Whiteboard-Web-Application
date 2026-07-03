@@ -44,9 +44,9 @@ Shapes are dynamically drawn based on mouse movement.
 
 ## 🛠️ Built With
 
-- 🟧 HTML5  
-- 🎨 CSS3  
-- 🟨 JavaScript (Vanilla)  
+- 🟧 HTML
+- 🎨 CSS
+- 🟨 JavaScript 
 - 🖼️ Canvas API 
 
 ## 👨‍💻 Author
